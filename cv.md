@@ -19,7 +19,7 @@ Will be later
 I'm just learning
 
 ### Education
-ITVDN - HTML5 & CSS3 Starter courses
+ITVDN - HTML5 & CSS3 Starter courses  (confirmed by certificate – TestProvider ID TP73519482)
 
 ### English level
 B1
