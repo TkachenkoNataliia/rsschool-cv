@@ -1,0 +1,25 @@
+body {
+  background-color: #feffef;
+  color: #204111;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+h2 {
+  font-family: "Domine", Times, serif;
+  font-weight: 700;
+  font-size: 36px;
+  color: #2a5b09;
+}
+
+h3 {
+  font-family: "Domine", Times, serif;
+  font-weight: 700;
+  color: #2a5b09;
+  font-size: 24px;
+}
+
+section {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
